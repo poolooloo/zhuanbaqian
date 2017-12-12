@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PlayPage.qml</file>
+        <file>BonusPage.qml</file>
+        <file>InvitePage.qml</file>
+        <file>WithdrawPage.qml</file>
+        <file>PersonPage.qml</file>
+        <file>UpdatePage.qml</file>
+        <file>HelpPage.qml</file>
+        <file>test.jpg</file>
+    </qresource>
+</RCC>
