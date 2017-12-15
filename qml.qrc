@@ -9,5 +9,6 @@
         <file>UpdatePage.qml</file>
         <file>HelpPage.qml</file>
         <file>test.jpg</file>
+        <file>Tux.png</file>
     </qresource>
 </RCC>
